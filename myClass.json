@@ -1,0 +1,14 @@
+[
+    {
+        "id":1,
+        "class":"Swordman"
+    },
+    {
+        "id":2,
+        "class":"Acolyte"
+    },
+    {
+        "id":3,
+        "class":"Merchant"
+    }
+]
